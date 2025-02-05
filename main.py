@@ -9,6 +9,9 @@
 # CircuitPython code tested on a Raspberry Pico 2 W.
 # About 3 generations per second.
 
+# https://github.com/adafruit/Adafruit_CircuitPython_Display_Text/tree/main/adafruit_display_text
+# https://github.com/adafruit/Adafruit_CircuitPython_Bitmap_Font/tree/main/adafruit_bitmap_font
+
 import board
 import displayio
 import framebufferio
